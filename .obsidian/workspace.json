@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "d7ab83415dbd2bd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7d1d592496b6525",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c45b30909474cf4d",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Paper/Paper/To Do list.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "To Do list"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "58b8dc68a3ef4c63",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc7ae51c7e2935ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ab9d4cff1b43b12",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d6c419673d2ce2fb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "51f74541a7ed97d8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "845d8badbe73f2ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b308b1248439f1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8763e682bc3cb6c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Paper/Paper/To Do list.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for To Do list"
+            }
+          },
+          {
+            "id": "33398a0531fc3ff5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Paper/Paper/To Do list.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from To Do list"
+            }
+          },
+          {
+            "id": "b540785b2620ed4f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0dbfe9444c2b5658",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Paper/Paper/To Do list.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of To Do list"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "c45b30909474cf4d",
+  "lastOpenFiles": [
+    "Paper/Paper/Roadmap.md",
+    "Paper/Paper/To Do list.md",
+    "Paper/Paper/To Do List.md",
+    "Paper/Paper/Random Ideas.md",
+    "Paper/Paper/Tech Leadership/Session 1.md",
+    "Paper/Daily Notes/2024-05-08.md",
+    "Paper/Daily Notes/2024-05-07.md",
+    "Paper/Daily Notes/2024-05-09.md",
+    "Paper/Daily Notes/2024-07-13.md",
+    "Paper/Paper/H1/H1.md",
+    "Paper/Paper/Sprint Planning Notes/Sprint 2.12.00.md",
+    "Paper/Paper/Sprint Planning Notes/SP 2.07.0.md",
+    "Paper/Paper/Coretan.md",
+    "Paper/Paper/Important Notes.md",
+    "Paper/Add Monitoring Paper Celestial.md"
+  ]
+}

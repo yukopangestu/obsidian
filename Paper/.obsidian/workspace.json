@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "2f460c7d77425ad8",
+    "type": "split",
+    "children": [
+      {
+        "id": "226543579c939f74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c099b6c52ab9e76e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Paper/Sprint Planning Notes/Sprint 2.12.00.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "260f8d3e0bf1c5bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d110f3b37a683dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fd2a2ea7bc94549",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9af1c0f57ad8ec2b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2e7c1630c79499ca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c9554e11c8ae15b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c22b8ca5835613b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "054c86e985e9b557",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Paper/Sprint Planning Notes/Sprint 2.12.00.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae93e54e0c5a7e83",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Paper/Sprint Planning Notes/Sprint 2.12.00.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "98b788e117542a82",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Paper/Sprint Planning Notes/Sprint 2.12.00.md"
+              }
+            }
+          },
+          {
+            "id": "a8de7093cbeb327e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f142c856bbb0dabf",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "4fff75ff24951fb0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9d14b1bf4c9c4911",
+            "type": "leaf",
+            "state": {
+              "type": "pieces-snippet-list",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "periodic-notes:Open this week": false
+    }
+  },
+  "active": "c099b6c52ab9e76e",
+  "lastOpenFiles": [
+    "Paper/Sprint Planning Notes/SP 2.07.0.md",
+    "Paper/Tech Leadership/Session 1.md",
+    "Paper/Coretan.md",
+    "Paper/Important Notes.md",
+    "Paper/Random Ideas.md",
+    "Paper/To Do List.md",
+    "Paper/Roadmap.md",
+    "Paper/H1/H1.md",
+    "Paper/H1",
+    "Personal/Documents.md",
+    "Paper/Tech Leadership/Session 2.md",
+    "piecesdb.json",
+    "Untitled Kanban.md",
+    "Weekly Notes/2024-W28.md",
+    "Paper/Architecture Review/Sprint 2.13.md",
+    "Pasted image 20240603182444.png",
+    "Add Monitoring Paper Celestial.md",
+    "Paper/Architecture Review",
+    "Paper/How to measure Performance.md",
+    "Paper/Sprint Planning Notes/Sprint 2.12.00.md",
+    "Paper/TO DO List.md",
+    "Paper/Managering",
+    "Daily Notes/2024-07-13.md",
+    "Weekly Notes",
+    "2024-W28.md",
+    "Daily Notes/2024-06-25.md",
+    "Daily Notes/2024-05-07.md",
+    "Paper/1o1 Note/Oq/H1 1o1.md",
+    "Paper/1o1 Note/Oq",
+    "Paper/Sprint Planning Notes/Sprint 2.11.0.md",
+    "Pasted image 20240507145710.png",
+    "Paper/1o1 Note/Kornel/Sony.md",
+    "Paper/1o1 Note/Kornel/29 April 2024.md",
+    "Pasted image 20240626202230.png",
+    "Paper/Sprint Planning Notes/SP 2.10.00.md",
+    "Paper/Tech Leadership",
+    "Pasted image 20240603173241.png",
+    "Paper/1o1 Note/Pak Jeremy",
+    "Paper/Sprint Planning Notes",
+    "Paper/1o1 Note/Oq",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "playbook/devops/asset/ios-distribution-certificate.png",
+    "playbook/devops/asset/ios-cert-wizard.png",
+    "playbook/devops/asset/ios-accounts.png",
+    "playbook/devops/asset/ios-request-certificate.png"
+  ]
+}
