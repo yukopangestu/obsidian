@@ -4,29 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c7d1d592496b6525",
+        "id": "2cc496d7ade843f1",
         "type": "tabs",
         "children": [
           {
-            "id": "c45b30909474cf4d",
+            "id": "a79b8004901907a1",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Paper/Paper/To Do list.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Paper/Personal/Documents.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "To Do list"
+              "icon": "lucide-file",
+              "title": "Documents"
             }
           }
         ]
@@ -48,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -168,25 +161,33 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c45b30909474cf4d",
+  "active": "a79b8004901907a1",
   "lastOpenFiles": [
-    "Paper/Paper/Roadmap.md",
-    "Paper/Paper/To Do list.md",
-    "Paper/Paper/To Do List.md",
-    "Paper/Paper/Random Ideas.md",
-    "Paper/Paper/Tech Leadership/Session 1.md",
-    "Paper/Daily Notes/2024-05-08.md",
-    "Paper/Daily Notes/2024-05-07.md",
-    "Paper/Daily Notes/2024-05-09.md",
-    "Paper/Daily Notes/2024-07-13.md",
     "Paper/Paper/H1/H1.md",
-    "Paper/Paper/Sprint Planning Notes/Sprint 2.12.00.md",
-    "Paper/Paper/Sprint Planning Notes/SP 2.07.0.md",
+    "Paper/Paper/Action Plan/Random Ideas.md",
+    "Paper/Paper/Architecture Review/Sprint 2.13.md",
+    "Paper/Paper/Action Plan/OKR Calibration Raw.md",
+    "Paper/Paper/Action Plan/OKR Calibration Action Plan.md",
+    "Paper/Daily Notes/2024-05-07.md",
     "Paper/Paper/Coretan.md",
     "Paper/Paper/Important Notes.md",
-    "Paper/Add Monitoring Paper Celestial.md"
+    "Paper/Paper/Random Ideas.md",
+    "Paper/Paper/Tech Leadership/Session 1.md",
+    "Paper/Personal/Documents.md",
+    "Paper/Weekly Notes/2024-W28.md",
+    "Paper/Pasted image 20240603173241.png",
+    "Paper/Add Monitoring Paper Celestial.md",
+    "Paper/Daily Notes/2024-05-08.md",
+    "Paper/Paper/To Do list.md",
+    "Paper/Paper/Roadmap.md",
+    "Paper/Paper/To Do List.md",
+    "Paper/Daily Notes/2024-05-09.md",
+    "Paper/Daily Notes/2024-07-13.md",
+    "Paper/Paper/Sprint Planning Notes/Sprint 2.12.00.md",
+    "Paper/Paper/Sprint Planning Notes/SP 2.07.0.md"
   ]
 }
