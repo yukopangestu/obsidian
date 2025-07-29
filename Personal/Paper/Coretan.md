@@ -1,5 +1,0 @@
-https://github.com/paper-indonesia/paper-tax/compare/c17fba0aaf526f6724f40171047f4510f9c07c12...c08f1792a76ebc24905bc005b4352755f282b9f4
-
-$2b$10$gTOEoVUDHAfJLGUXBitKqOccCO2CjExdJOzpWa9IQsaCV24rlFlYq
-
-$2b$10$HhwyIeOKtJctdGQStas8ju8MGnvmrL5KXwFzQORcNz2Hqd51VnXBW

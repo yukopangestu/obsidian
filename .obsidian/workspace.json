@@ -11,17 +11,14 @@
             "id": "a79b8004901907a1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Personal/Paper/Random Ideas.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Random Ideas"
             }
           }
         ]
@@ -178,20 +175,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a79b8004901907a1",
+  "active": "5ab9d4cff1b43b12",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Personal/Paper/1o1 Note/Associate Consultant/Daffa Nabil Hakim.md",
-    "Personal/Paper/1o1 Note/Associate Consultant/daffa.md",
     "Personal/Paper/Coretan.md",
+    "Personal/Paper/Random Ideas.md",
+    "Personal/Paper/Important Notes.md",
+    "Personal/Paper/To Do list.md",
+    "Personal/Paper/1o1 Note/Associate Consultant/Daffa Nabil Hakim.md",
+    "Untitled.canvas",
+    "Personal/Paper/1o1 Note/Associate Consultant/daffa.md",
     "Personal/Personal/Documents.md",
     "Personal/Paper/1o1 Note/Associate Consultant",
     "Personal/Personal/Personal Posting/Siapa itu Engineer - by Grok.md",
-    "Personal/Paper/Important Notes.md",
-    "Personal/Paper/Random Ideas.md",
     "Personal/Personal/Personal Posting/Siapa itu Engineer.md",
     "Personal/Personal/Personal Posting/Siapa saya.md",
-    "Personal/Paper/To Do list.md",
     "Personal/Paper/Roadmap.md",
     "Paper/Personal/Personal Posting/Siapa Itu Engineer.md",
     "Paper/Personal/Documents.md",
