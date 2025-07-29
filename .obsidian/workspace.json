@@ -11,14 +11,17 @@
             "id": "a79b8004901907a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Paper/Personal/Documents.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Documents"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -145,13 +148,23 @@
               "icon": "lucide-list",
               "title": "Outline of To Do list"
             }
+          },
+          {
+            "id": "7dae820914cd720f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,6 +180,23 @@
   },
   "active": "a79b8004901907a1",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Personal/Paper/1o1 Note/Associate Consultant/Daffa Nabil Hakim.md",
+    "Personal/Paper/1o1 Note/Associate Consultant/daffa.md",
+    "Personal/Paper/Coretan.md",
+    "Personal/Personal/Documents.md",
+    "Personal/Paper/1o1 Note/Associate Consultant",
+    "Personal/Personal/Personal Posting/Siapa itu Engineer - by Grok.md",
+    "Personal/Paper/Important Notes.md",
+    "Personal/Paper/Random Ideas.md",
+    "Personal/Personal/Personal Posting/Siapa itu Engineer.md",
+    "Personal/Personal/Personal Posting/Siapa saya.md",
+    "Personal/Paper/To Do list.md",
+    "Personal/Paper/Roadmap.md",
+    "Paper/Personal/Personal Posting/Siapa Itu Engineer.md",
+    "Paper/Personal/Documents.md",
+    "Paper/Personal/Personal Posting",
+    "Paper/Personal/Untitled.md",
     "Paper/Paper/H1/H1.md",
     "Paper/Paper/Action Plan/Random Ideas.md",
     "Paper/Paper/Architecture Review/Sprint 2.13.md",
@@ -177,17 +207,7 @@
     "Paper/Paper/Important Notes.md",
     "Paper/Paper/Random Ideas.md",
     "Paper/Paper/Tech Leadership/Session 1.md",
-    "Paper/Personal/Documents.md",
     "Paper/Weekly Notes/2024-W28.md",
-    "Paper/Pasted image 20240603173241.png",
-    "Paper/Add Monitoring Paper Celestial.md",
-    "Paper/Daily Notes/2024-05-08.md",
-    "Paper/Paper/To Do list.md",
-    "Paper/Paper/Roadmap.md",
-    "Paper/Paper/To Do List.md",
-    "Paper/Daily Notes/2024-05-09.md",
-    "Paper/Daily Notes/2024-07-13.md",
-    "Paper/Paper/Sprint Planning Notes/Sprint 2.12.00.md",
-    "Paper/Paper/Sprint Planning Notes/SP 2.07.0.md"
+    "Paper/Pasted image 20240603173241.png"
   ]
 }

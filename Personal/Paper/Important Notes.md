@@ -16,8 +16,10 @@
 Pin Pritunl 576355
 Passphrase FE Prod Sin$in123
 
-**OpenAI paid code**
+**OpenAI paid code** 
 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
+
+sk-3efg0ACgt3SkNXGz7mTaxOoizhoc09uLEs3EaBYMKRT3BlbkFJVZYE4S3OF6U7jfsdyJOGT9Vz37uJrOzsJCwtYdX4QAd
 
 ### MySQL master prod ###  
 IP : 10.235.0.5:14045  
@@ -40,3 +42,6 @@ https://github.com/paper-indonesia/paper-import/compare/b8e8e37e34e9cac445d23922
 
 prod: p4p3r1nd0n3s14
 staging: Ppr1nd0n3s!4
+
+**Token Jetbrains for Ubuntu**
+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
