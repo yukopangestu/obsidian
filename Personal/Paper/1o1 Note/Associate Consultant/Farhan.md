@@ -4,7 +4,7 @@
 - Potential: Medium
 - Work Style: Collaborative
 - Career Track: Technical
-- Technical Skills: Golang
+- Technical Skills: Technical
 - Current Projects: Malaysia
 
 # Interesting Notes
