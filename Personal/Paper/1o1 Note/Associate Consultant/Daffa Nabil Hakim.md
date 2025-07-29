@@ -1,10 +1,14 @@
 - Role/Level: Junior
+- Position: Backend Engineers
 - Performance Rating: Medium
 - Potential: High
 - Work Style: Collaborative
 - Career Track: Technical
 - Technical Skills: Golang
 - Current Projects: Migrate API Listing Payment
+
+# Interesting Notes
+
 
 # Onboarding Notes
 
