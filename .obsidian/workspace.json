@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2cc496d7ade843f1",
+        "id": "84c150927eae6732",
         "type": "tabs",
         "children": [
           {
-            "id": "a79b8004901907a1",
+            "id": "3dfdc6ed4e7a1859",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Personal/Personal/Personal Notes.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Personal Notes"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -175,10 +175,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a79b8004901907a1",
+  "active": "3dfdc6ed4e7a1859",
   "lastOpenFiles": [
-    "Personal/Paper/1o1 Note/Associate Consultant/Farhan.md",
     "Personal/Personal/Personal Notes.md",
+    "Personal/Paper/1o1 Note/Associate Consultant/Farhan.md",
     "Personal/Paper/1o1 Note/Associate Consultant/Daffa Nabil Hakim.md",
     "Personal/Paper/Important Notes.md",
     "Personal/Paper/H1/H1.md",
