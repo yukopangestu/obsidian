@@ -8,7 +8,7 @@
 - Current Projects: Malaysia Back End
 
 MBTI
-
+![[Pasted image 20250731132326.png]]
 
 # Interesting notes
 
