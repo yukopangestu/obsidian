@@ -7,6 +7,9 @@
 - Technical Skills: Technical
 - Current Projects: Malaysia
 
+MBTI:
+![[Pasted image 20250731122422.png]]
+
 # Interesting Notes
 
 

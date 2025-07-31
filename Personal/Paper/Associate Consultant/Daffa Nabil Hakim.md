@@ -7,6 +7,8 @@
 - Technical Skills: Golang
 - Current Projects: Migrate API Listing Payment
 
+MBTI:
+![[Pasted image 20250731122451.png]]
 # Interesting Notes
 
 

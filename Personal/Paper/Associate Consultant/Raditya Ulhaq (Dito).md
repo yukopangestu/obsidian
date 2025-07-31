@@ -7,6 +7,9 @@
 - Technical Skills: Golang
 - Current Projects: Malaysia Back End
 
+MBTI
+
+
 # Interesting notes
 
 - Ketika ngobrol sepertinya agak kebingungan

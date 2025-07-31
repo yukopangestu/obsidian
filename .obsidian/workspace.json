@@ -11,14 +11,14 @@
             "id": "3dfdc6ed4e7a1859",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Personal/Paper/Associate Consultant/Raihan.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Raihan"
             }
           }
         ]
@@ -175,12 +175,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7dae820914cd720f",
+  "active": "3dfdc6ed4e7a1859",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Personal/Paper/Associate Consultant/Raditya Ulhaq (Dito).md",
-    "Personal/Paper/Associate Consultant/Farhan.md",
+    "Pasted image 20250731123154.png",
+    "Personal/Paper/Associate Consultant/Anindya.md",
     "Personal/Paper/Associate Consultant/Daffa Nabil Hakim.md",
+    "Personal/Paper/Associate Consultant/Hizkia Joy.md",
+    "Personal/Paper/Associate Consultant/Raihan.md",
+    "Pasted image 20250731122906.png",
+    "Personal/Paper/Associate Consultant/Farhan.md",
+    "Personal/Paper/Associate Consultant/Michael Leon.md",
+    "Pasted image 20250731122815.png",
+    "Personal/Paper/Associate Consultant/Jihaan Jasmine.md",
+    "Pasted image 20250731122759.png",
+    "Personal/Paper/Associate Consultant/Rozan Ghosani.md",
+    "Personal/Paper/Associate Consultant/Raditya Ulhaq (Dito).md",
+    "Pasted image 20250731122451.png",
+    "Pasted image 20250731122422.png",
+    "Pasted image 20250731102927.png",
+    "conflict-files-obsidian-git.md",
     "Personal/Paper/Associate Consultant",
     "Personal/Personal/Personal Notes.md",
     "Personal/Paper/1o1 Note/Associate Consultant/Farhan.md",
@@ -199,14 +212,7 @@
     "Personal/Personal/Personal Posting/Siapa saya.md",
     "Personal/Paper/Roadmap.md",
     "Paper/Personal/Personal Posting/Siapa Itu Engineer.md",
-    "Paper/Personal/Documents.md",
     "Paper/Personal/Personal Posting",
-    "Paper/Personal/Untitled.md",
-    "Paper/Paper/H1/H1.md",
-    "Paper/Paper/Action Plan/Random Ideas.md",
-    "Paper/Paper/Architecture Review/Sprint 2.13.md",
-    "Paper/Paper/Action Plan/OKR Calibration Raw.md",
-    "Paper/Paper/Action Plan/OKR Calibration Action Plan.md",
     "Paper/Pasted image 20240603173241.png"
   ]
 }
